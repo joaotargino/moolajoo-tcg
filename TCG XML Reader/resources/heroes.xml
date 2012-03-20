@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroes>
+	<hero id="01">
+		<name>Vivi</name>
+		<class id="01"></class>
+		<hp>20</hp>
+		<mp>40</mp>
+	</hero>
+	<hero id="02">
+		<name>Garnet</name>
+		<class id="02"></class>
+		<hp>25</hp>
+		<mp>35</mp>
+	</hero>
+</heroes>
