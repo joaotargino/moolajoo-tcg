@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classes>
+	<class id="01">
+		<name>Black Mage</name>
+	</class>
+	<class id="02">
+		<name>White Mage</name>
+	</class>
+	<class id="03">
+		<name>Red Mage</name>
+	</class>
+	<class id="04">
+		<name>Thief</name>
+	</class>
+	<class id="05">
+		<name>Summoner</name>
+	</class>
+	<class id="06">
+		<name>Monk</name>
+	</class>
+	<class id="07">
+		<name>Magic Knight</name>
+	</class>
+	<class id="08">
+		<name>Knight</name>
+	</class>
+	<class id="09">
+		<name>Dragon</name>
+	</class>
+	<class id="10">
+		<name>Gunner</name>
+	</class>
+	<class id="11">
+		<name>Chemist</name>
+	</class>
+	<class id="12">
+		<name>Ninja</name>
+	</class>
+	<class id="13">
+		<name>Assassin</name>
+	</class>
+	<class id="14">
+		<name>Archer</name>
+	</class>
+</classes>

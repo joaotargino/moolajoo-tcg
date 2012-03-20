@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offensives>
+	<Offensive id="001">
+		<name>Fire 1</name>
+		<classes>
+			<class id="01"></class>
+			<class id="03"></class>
+		</classes>
+	</Offensive>
+	<Offensive id="002">
+		<name>Cure 1</name>
+		<classes>
+			<class id="02"></class>
+			<class id="03"></class>
+		</classes>
+	</Offensive>
+</offensives>

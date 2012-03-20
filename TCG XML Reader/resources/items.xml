@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="01">
+		<name>Potion</name>
+	</item>
+	<item id="02">
+		<name>Ether</name>
+	</item>
+</items>
