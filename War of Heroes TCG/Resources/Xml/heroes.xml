@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<heroes>
+	<hero id="001">
+		<name>Natsu</name>
+		<elemental id="01"></elemental>
+		<hp>30</hp>
+		<mp>8</mp>
+	</hero>
+	
+	<hero id="002">
+		<name>Gray</name>
+		<elemental id="01"></elemental>
+		<hp>30</hp>
+		<mp>8</mp>
+	</hero>
+</heroes>
